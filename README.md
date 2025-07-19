@@ -1,4 +1,4 @@
-# Pokeathalon: Desktop Featured Pokemon Showdown
+# (NO LONGER IN PROGRESS) Pokeathalon: Desktop Featured Pokemon Showdown
 
 # Disclaimer
 Pokémon Battle Simulator (PBS) and Pokeathalon are unaffiliated, fan-created projects based on
